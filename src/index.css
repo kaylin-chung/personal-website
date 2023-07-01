@@ -1,13 +1,55 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+
+:root{
+
+  --selected-theme-background-color: var(--pink-theme-background-color);
+  --selected-theme-main-color: var(--pink-theme-main-color);
+  --selected-theme-sub-text-color: var(--pink-theme-sub-text-color);
+  --selected-theme-nav-background-color: var(--pink-theme-nav-background);
+
+  --pink-theme-background-color : #E6E4E0;
+  --pink-theme-main-color: #E15986;
+  --pink-theme-sub-text-color: #333030;
+  --pink-theme-nav-background: #FFFFFF;
+  
+  --green-theme-background-color : #E6E4E0;
+  --green-theme-main-color: #00a36c;
+  --green-theme-sub-text-color: #333030;
+  --green-theme-nav-background: #FFFFFF;
+
+  --blue-theme-background-color : #E6E4E0;
+  --blue-theme-main-color: #5980E1;
+  --blue-theme-sub-text-color: #333030;
+  --blue-theme-nav-background: #FFFFFF;
+
+  --orange-theme-background-color : #E6E4E0;
+  --orange-theme-main-color: #E25822;
+  --orange-theme-sub-text-color: #333030;
+  --orange-theme-nav-background: #FFFFFF;
+
+  --font-base : "Montserrat", serif;
+  
+
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+html {
+  font-size: 62.5%;
+  height: 100%;
+}
+
+body {
+  background: var(--selected-theme-background-color);
+  height: 100%;
+}
+
+#root {
+  height: 100%;
 }
