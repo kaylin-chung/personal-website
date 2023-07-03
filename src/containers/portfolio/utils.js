@@ -15,13 +15,13 @@ export const portfolioData = [
     {
         sectionId: 2,
         projectName: 'this website',
-        projectLink: '',
+        projectLink: 'https://github.com/kaylin-chung/personal-website',
         image: website
     },
     {
         sectionId: 2,
         projectName: 'mancala computer game',
-        projectLink: '',
+        projectLink: 'https://github.com/kaylin-chung/kalah-game',
         image: study
     },
     {
