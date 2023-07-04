@@ -17,11 +17,11 @@ function App() {
       <div className='App__main-content-wrapper'>
         <Theme/>
         <Routes>
-          <Route path='/personal-website' index element={<Home />} />
-          <Route path='/personal-website/about' index element={<About />} />
-          <Route path='/personal-website/contact' index element={<Contact />} />
-          <Route path='/personal-website/portfolio' index element={<Portfolio />} />
-          <Route path='/personal-website/resume' index element={<Resume />} />
+          <Route path='/' index element={<Home />} />
+          <Route path='/about' index element={<About />} />
+          <Route path='/contact' index element={<Contact />} />
+          <Route path='/portfolio' index element={<Portfolio />} />
+          <Route path='/resume' index element={<Resume />} />
         </Routes>
       </div>
     </div>
