@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-website/static/css/main.ccb8bc3d.css",
-    "main.js": "/personal-website/static/js/main.1aa6c8da.js",
+    "main.js": "/personal-website/static/js/main.c6edd437.js",
     "static/media/profilepic.png": "/personal-website/static/media/profilepic.fbe5a7a3ab0ece0d7006.png",
     "static/media/collage.png": "/personal-website/static/media/collage.8847fc986d44e4774b8e.png",
     "static/media/study.png": "/personal-website/static/media/study.025a4b7cffd7bfc1b175.png",
@@ -16,13 +16,13 @@
     "static/media/logo1.png": "/personal-website/static/media/logo1.48395992d16df1a41ead.png",
     "static/media/creamy_boys.png": "/personal-website/static/media/creamy_boys.2860605012e633e46a9e.png",
     "static/media/tshirt.png": "/personal-website/static/media/tshirt.9b4a53e2538ac4a3fda1.png",
-    "static/media/kaylinchung-fall2023.pdf": "/personal-website/static/media/kaylinchung-fall2023.f7fb98d0376577298c8f.pdf",
+    "static/media/KaylinChungFall2023.pdf": "/personal-website/static/media/KaylinChungFall2023.32c5d445fd9d81490ca0.pdf",
     "index.html": "/personal-website/index.html",
     "main.ccb8bc3d.css.map": "/personal-website/static/css/main.ccb8bc3d.css.map",
-    "main.1aa6c8da.js.map": "/personal-website/static/js/main.1aa6c8da.js.map"
+    "main.c6edd437.js.map": "/personal-website/static/js/main.c6edd437.js.map"
   },
   "entrypoints": [
     "static/css/main.ccb8bc3d.css",
-    "static/js/main.1aa6c8da.js"
+    "static/js/main.c6edd437.js"
   ]
 }
