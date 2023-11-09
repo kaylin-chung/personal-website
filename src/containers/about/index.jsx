@@ -2,7 +2,7 @@ import React from "react";
 import PageHeaderContent from "../../components/pageHeaderContent";
 import { LuScanFace } from "react-icons/lu";
 import "./styles.scss";
-import ProfilePic from "../../images/profilepic.png";
+import ProfilePic from "../../images/headshot.png";
 
 const About = () => {
   return (
@@ -28,7 +28,7 @@ const About = () => {
           <img
             src={ProfilePic}
             alt="My Image"
-            style={{ width: "350px", height: "400px" }}
+            style={{ width: "350px", height: "460px" }}
           />
         </div>
         <div className="about__content__listWrapper">
