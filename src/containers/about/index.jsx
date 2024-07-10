@@ -44,7 +44,7 @@ const About = () => {
             </li>
             <li>
               {" "}
-              <b>school:</b> second year @ UCLA (go bruins!!)
+              <b>school:</b> third year @ UCLA (go bruins!!)
             </li>
             <li>
               {" "}
