@@ -1,7 +1,7 @@
 import React from "react";
 import PageHeaderContent from "../../components/pageHeaderContent";
 import { AiOutlinePaperClip } from "react-icons/ai";
-import kaylinResume from "./kaylinchung-july2024-resume.pdf";
+import kaylinResume from "./kaylinchung_resume.pdf";
 import "./styles.scss";
 
 const Resume = () => {
