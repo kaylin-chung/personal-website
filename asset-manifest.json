@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.1e9ff700.css",
+    "main.js": "/personal-website/static/js/main.b3270619.js",
+    "static/media/collage.png": "/personal-website/static/media/collage.8847fc986d44e4774b8e.png",
+    "static/media/study.png": "/personal-website/static/media/study.025a4b7cffd7bfc1b175.png",
+    "static/media/website.png": "/personal-website/static/media/website.f238af54a9703aec2988.png",
+    "static/media/shell.png": "/personal-website/static/media/shell.f188006c184c7bab62e7.png",
+    "static/media/spindle.png": "/personal-website/static/media/spindle.ef4358125b128ed225f9.png",
+    "static/media/headshot.png": "/personal-website/static/media/headshot.36cc357d8be45085c756.png",
+    "static/media/zebraeye.png": "/personal-website/static/media/zebraeye.3265feb3ba1dd5cc985c.png",
+    "static/media/toby.png": "/personal-website/static/media/toby.ef02f3832a8138fd8de9.png",
+    "static/media/innoddesignchallenge.png": "/personal-website/static/media/innoddesignchallenge.6f20e4f66fa23638eb11.png",
+    "static/media/now.png": "/personal-website/static/media/now.bd17b69c277f42cdd171.png",
+    "static/media/future.png": "/personal-website/static/media/future.8a09f9b92e346bd55bed.png",
+    "static/media/logo1.png": "/personal-website/static/media/logo1.48395992d16df1a41ead.png",
+    "static/media/creamy_boys.png": "/personal-website/static/media/creamy_boys.2860605012e633e46a9e.png",
+    "static/media/tshirt.png": "/personal-website/static/media/tshirt.9b4a53e2538ac4a3fda1.png",
+    "static/media/kaylinchung_resume.pdf": "/personal-website/static/media/kaylinchung_resume.e362585580dee2d32bf2.pdf",
+    "index.html": "/personal-website/index.html",
+    "main.1e9ff700.css.map": "/personal-website/static/css/main.1e9ff700.css.map",
+    "main.b3270619.js.map": "/personal-website/static/js/main.b3270619.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e9ff700.css",
+    "static/js/main.b3270619.js"
+  ]
+}
